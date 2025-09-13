@@ -13,18 +13,6 @@
 
 ---
 
-## 🚀 About Me
-
-- 🔭 **Currently working on**: LiteCoder Ai VS Code Extension
-- 🌱 **Learning**: Advanced AI/ML, Quantum Computing, Blockchain
-- 👯 **Looking to collaborate on**: Open Source AI Projects
-- 🤔 **Looking for help with**: Machine Learning Model Optimization
-- 💬 **Ask me about**: VS Code Extensions, AI Development, Full Stack Development
-- ⚡ **Fun fact**: I can code in 8+ programming languages!
-- 🎯 **2025 Goals**: Launch LiteCoder Ai on VS Code Marketplace
-
----
-
 ## 🛠️ Tech Stack
 
 ### Languages
@@ -145,7 +133,7 @@ class WahibeAsa:
 
 <div align="center">
   
-[![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/wahibeasa)
+[![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/intl-fr/artist/66WC9kHuhAe74oz2AdiI1R?si=fkQ7MBb5RDuNT5ZLzogoyQ)
 
 </div>
 
